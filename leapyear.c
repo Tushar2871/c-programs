@@ -1,4 +1,4 @@
-//this is my first repositary on github
+//I am Yashovardhan jain and this is my first repositary on github.
 #include<stdio.h>
 int main ()
 {
