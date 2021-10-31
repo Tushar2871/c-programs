@@ -1,4 +1,5 @@
 //Yes program is correct!
+//this is comment
 #include<stdio.h>
 int main ()
 {
