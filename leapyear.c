@@ -1,4 +1,4 @@
-//I am Yashovardhan jain and this is my first repositary on github.
+//Yes program is correct!
 #include<stdio.h>
 int main ()
 {
